@@ -1,0 +1,4 @@
+
+pip install opencv-python ultralytics numpy requests firebase-admin
+
+pip install opencv-python numpy ultralytics mss pyautogui
